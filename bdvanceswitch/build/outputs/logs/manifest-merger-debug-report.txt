@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:2:1-59:12
+	package
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:8:22-73
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:11:22-71
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:13:22-75
+application
+ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:15:5-58:19
+	android:supportsRtl
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:19:9-41
+	android:roundIcon
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:21:9-43
+	tools:targetApi
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:23:9-28
+	android:icon
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:18:9-38
+	android:allowBackup
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:17:9-35
+	android:usesCleartextTraffic
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:20:9-44
+	android:name
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:16:9-63
+meta-data#com.google.android.gms.ads.AD_MANAGER_APP
+ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:25:9-27:36
+	android:value
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:27:13-33
+	android:name
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:26:13-69
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:29:9-31:69
+	android:value
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:31:13-67
+	android:name
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:30:13-69
+activity#com.superadtech.modids.Top.MasterX
+ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:33:9-35:59
+	android:theme
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:35:13-56
+	android:name
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:34:13-40
+activity#com.superadtech.modids.Top.MasterX_Feature
+ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:37:9-39:59
+	android:theme
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:38:13-48
+activity#top.oneconnectapi.app.DisconnectVPNActivity
+ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:42:9-47:52
+	android:excludeFromRecents
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:44:13-46
+	android:noHistory
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:45:13-37
+	android:theme
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:47:13-49
+	android:taskAffinity
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:46:13-50
+	android:name
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:43:13-71
+service#top.oneconnectapi.app.core.OpenVPNService
+ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:49:9-56:19
+	android:exported
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:50:13-69
+intent-filter#action:name:android.net.VpnService
+ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:53:13-55:29
+action#android.net.VpnService
+ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:54:17-65
+	android:name
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml:54:25-62
+uses-sdk
+INJECTED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml
+INJECTED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml
+INJECTED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml
+INJECTED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml
+		ADDED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\bdvanceswitch\src\main\AndroidManifest.xml
