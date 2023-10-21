@@ -37,7 +37,7 @@ public class MasterX_Feature extends Activity {
     public Countries selectedCountry = null;
     private OpenVPNThread vpnThread = new OpenVPNThread();
     Boolean bg_changed = false;
-    String STATUS = "DISCONNECTED";
+   public static String STATUSX = "DISCONNECTED";
 
     @Override
     protected void onStop() {
@@ -129,34 +129,34 @@ public class MasterX_Feature extends Activity {
     protected void updateUI(String status) {
         switch (status) {
             case "DISCONNECTED":
-                STATUS = "DISCONNECTED";
+                STATUSX = "DISCONNECTED";
                 connectionOff();
                 break;
 
             case "CONNECTED":
-                STATUS = "CONNECTED";
+                STATUSX = "CONNECTED";
                 connectionOn();
                 break;
 
             case "WAIT":
-                STATUS = "WAITING";
+                STATUSX = "WAITING";
                 break;
 
             case "AUTH":
-                STATUS = "AUTHENTICATION";
+                STATUSX = "AUTHENTICATION";
                 break;
 
             case "RECONNECTING":
-                STATUS = "RECONNECTING";
+                STATUSX = "RECONNECTING";
                 break;
 
             case "NONETWORK":
-                STATUS = "DISCONNECTED";
+                STATUSX = "DISCONNECTED";
                 connectionOff();
                 break;
 
             case "LOAD":
-                STATUS = "LOAD";
+                STATUSX = "LOAD";
                 break;
         }
     }

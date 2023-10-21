@@ -60,7 +60,6 @@ public class MyAdZOne {
     static MyCallback myCallback;
     static OnAdListner onAdListner;
     public Dialog dialog;
-
     public static String All_Ads_Show;
     public static String App_Debug_Mode = "true";
     public static String Dialog_Show;
